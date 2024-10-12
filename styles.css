@@ -68,6 +68,10 @@ footer {
     width: 100%;
 }
 
+.social-media {
+    display: none;
+}
+
 .social-media img {
     width: 30px;
     margin: 0 10px;
